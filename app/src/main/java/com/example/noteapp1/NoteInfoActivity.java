@@ -136,7 +136,7 @@ public class NoteInfoActivity extends AppCompatActivity {
 
     }
     public void onDesttoy(){
-
+        Toast.makeText(this, "New Branch", Toast.LENGTH_SHORT).show();
     }
 }
 //DatabaseContract Class
