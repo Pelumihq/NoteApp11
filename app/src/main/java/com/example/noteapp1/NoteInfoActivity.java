@@ -135,6 +135,9 @@ public class NoteInfoActivity extends AppCompatActivity {
         Log.d("nimiDebug",val+" ");
 
     }
+    public void onDesttoy(){
+
+    }
 }
 //DatabaseContract Class
     // table
